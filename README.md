@@ -1,6 +1,4 @@
-Here's the improved version of your "Life Expectancy Prediction" project, complete with relevant emojis to enhance the structure and readability:
 
----
 
 # 🌍 Life Expectancy Prediction using Linear Regression, Random Forest, Gradient Boosting, and XGBoost  
 
